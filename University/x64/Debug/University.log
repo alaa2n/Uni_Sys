@@ -1,0 +1,5 @@
+﻿  University.cpp
+C:\Users\alaa6\OneDrive\Desktop\University\University\University.cpp(288,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alaa6\OneDrive\Desktop\University\University\University.cpp(418,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alaa6\OneDrive\Desktop\University\University\University.cpp(415): warning C4715: 'University::removeCourse': not all control paths return a value
+  University.vcxproj -> C:\Users\alaa6\OneDrive\Desktop\University\x64\Debug\University.exe
